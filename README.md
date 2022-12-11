@@ -1,2 +1,2 @@
 # openvpn
-there are files for private customers.
+There are files for private customers.
